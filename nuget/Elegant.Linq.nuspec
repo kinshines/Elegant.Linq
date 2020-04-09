@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Elegant.Linq</id>
+    <version>1.0.0</version>
+    <title>Elegant.Linq</title>
+    <authors>kinshines</authors>
+    <owners>kinshines</owners>
+    <licenseUrl>https://raw.githubusercontent.com/kinshines/Elegant.Linq/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/kinshines/Elegant.Linq</projectUrl>
+    <iconUrl>https://linqsa.co.za/wp-content/themes/linqsa/images/LINQ%20logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A universal PredicateBuilder</description>
+    <releaseNotes>first release</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>linq PredicateBuilder predicate builder</tags>
+  </metadata>
+</package>
